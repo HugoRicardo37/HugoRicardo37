@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev Hugo Ricaro 😁
+## Bem-vindo(a) ao perfil do Dev Hugo Ricardo 😁
 
  <div>
    <a href="https://github.com/HugoRicardo37">
